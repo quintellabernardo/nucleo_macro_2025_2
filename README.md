@@ -43,9 +43,9 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
    - Para cada eleição, calcula-se a **média ponderada** das posições ideológicas, usando como pesos a porcentagem de votos de cada frente.  
    - Fórmula simplificada:  
 
-     \[
+    $ \[
      IPP = \frac{\sum_{i}(votos_i \times posicao_i)}{\sum_{i} votos_i}
-     \]
+     \]$
 
 ---
 
