@@ -43,10 +43,9 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
    - Para cada eleição, calcula-se a **média ponderada** das posições ideológicas, usando como pesos a porcentagem de votos de cada frente.  
    - Fórmula simplificada:  
 
-    $ \[
+   $$
      IPP = \frac{\sum_{i}(votos_i \times posicao_i)}{\sum_{i} votos_i}
-     \]$
-
+   $$
 ---
 
 ## 📊 Objetivos do Projeto
@@ -59,7 +58,7 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
 
 ## Como utilizar
 
-- Extraia os arquivos dentro do arquivo data\datasets_eleicoes_argentina para o arquivo data.
+- Extraia os arquivos de dentro da pasta \datasets_eleicoes_argentina.zip, contido na última Release, para a pasta \data.
 - Rode o Jupyter Notebook
 
 ## 🚀 Próximos Passos
