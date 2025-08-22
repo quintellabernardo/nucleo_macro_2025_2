@@ -45,7 +45,7 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
    - Fórmula simplificada:  
 
    $$
-     IPP = \frac{\sum_{i}(votos_i \times posicao_i)}{\sum_{i} votos_i}
+     IPP_eleição = \frac{\sum_{i}(votos_i \times IPP_i)}{\sum_{i} votos_i}
    $$
 ---
 
