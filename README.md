@@ -29,7 +29,8 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
      - `"FRENTE DE IZQUIERDA Y DE TRABAJADORES..."` → **FRENTE DE IZQUIERDA Y DE TRABAJADORES**  
      - `"FRENTE DE TODOS"` / `"UNIÓN POR LA PATRIA"` → **UNIÓN POR LA PATRIA**
 
-3. **Classificação Ideológica**  
+3. **Classificação Ideológica** 
+   Exemplo:
    Cada frente eleitoral é mapeada no espectro [-2, 2]:  
    | Frente / Partido                              | Posição |
    |-----------------------------------------------|---------|
@@ -63,7 +64,7 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
 
 ## 🚀 Próximos Passos
 
-- Incluir **dados históricos anteriores a 2019**.  
+- Incluir **dados históricos anteriores a 2013**.  
 - Estender a metodologia para **outros países latino-americanos**.  
 - Visualizações gráficas da evolução do IPP ao longo do tempo.  
 
