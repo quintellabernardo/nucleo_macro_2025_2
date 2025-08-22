@@ -66,6 +66,7 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
 
 - Incluir **dados históricos anteriores a 2013**.  
 - Estender a metodologia para **outros países latino-americanos**.  
-- Visualizações gráficas da evolução do IPP ao longo do tempo.  
+- Analisar correlação do IPP do legislativo para votos presidenciais
+- Aprofundar análise nas províncias argentinas
 
 ---
