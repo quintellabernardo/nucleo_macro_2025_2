@@ -52,7 +52,7 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
 ## 📊 Objetivos do Projeto
 
 - Criar uma métrica simples e comparável da posição ideológica média do eleitorado argentino.  
-- Permitir análise.
+- Permitir análise eleitoral.
 - Oferecer base para comparações internacionais, aplicando a mesma metodologia em outros países.  
 
 ---
@@ -61,12 +61,5 @@ O IPP é uma métrica contínua em um **espectro de -2 a +2**, onde:
 
 - Extraia os arquivos de dentro da pasta \datasets_eleicoes_argentina.zip, contido na última Release, para a pasta \data.
 - Rode o Jupyter Notebook
-
-## 🚀 Próximos Passos
-
-- Incluir **dados históricos anteriores a 2013**.  
-- Estender a metodologia para **outros países latino-americanos**.  
-- Analisar correlação do IPP do legislativo para votos presidenciais
-- Aprofundar análise nas províncias argentinas
 
 ---
